@@ -1,6 +1,6 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "name": "Sophia",
+  "description": "WhatsApp bot made by Faizan Mukhtar",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
   "keywords": ["MALVIN XD"],
   "success_url": "/",
@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
+        "description": "malvin~UmFVABDL#H0ByDG2pLiViPzhvqHIndWWN1xdDT1LZJ4xnluC-Ch0. Make sure it starts with malvin~",
         "value":"",
         "required": true
         
@@ -16,7 +16,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "ᴍᴀʟᴠɪɴ xᴅ" 
+        "value": "Sophia" 
         
     },
      "PREFIX": {
@@ -33,20 +33,20 @@
    },
      "DESCRIPTION": {
       "description": "add caption for menu and other",
-      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ xᴅ*",
+      "value": "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Faizan Mukhtar*",
       "required": true
       
    }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "value": "263714757857"
+      "value": "9236269525"
       "required": true
       
    },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "Faizan Mukhtar",
       "required": true
     }
 
