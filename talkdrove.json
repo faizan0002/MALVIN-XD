@@ -1,24 +1,24 @@
 
 {
-"bot-name": "MALVIN-XD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+"bot-name": "Sophia",
+  "description": "ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Faizan Mukhtar",
   "logo": "https://files.catbox.moe/juxfce.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://malvinxd-pairsession.onrender.com/",
-    "owner-verification":"malvink003@gmail.com",
+    "owner-verification":"faizanmukhtar001@icloud.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. It starts with malvin~",
+        "description": "malvin~UmFVABDL#H0ByDG2pLiViPzhvqHIndWWN1xdDT1LZJ4xnluC-Ch0",
         "value":"",
         "required": true
         
       },
       
     "OWNER_NUMBER": {
-      "description": "Enter owner number",
+      "description": "Faizan Mukhtar",
       "required": true,
-      "value": "263714757857"
+      "value": "923296269525"
       
        },
       "TIMEZONE": {
